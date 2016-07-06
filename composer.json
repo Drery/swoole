@@ -1,0 +1,15 @@
+{
+    "name": "drery/swoole",
+    "description": "swoole framework with Yii.",
+    "type": "a",
+    "require": {
+        "yiisoft/yii2": ">=2.0.6"
+    },
+    "authors": [
+        {
+            "name": "Drery",
+            "email": "rui1642@foxmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
