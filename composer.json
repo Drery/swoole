@@ -13,6 +13,6 @@
     ],
     "minimum-stability": "beta",
     "autoload": {
-	"psr-4": {"drery\\swoole": ""}
+	"psr-4": {"drery\\swoole\\": ""}
     }
 }
