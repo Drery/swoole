@@ -11,5 +11,8 @@
             "email": "rui1642@foxmail.com"
         }
     ],
-    "minimum-stability": "beta"
+    "minimum-stability": "beta",
+    "autoload": {
+	"psr-4": {"drery\\swoole": ""}
+    }
 }
